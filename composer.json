@@ -1,0 +1,20 @@
+{
+    "name": "emmetog/composer-workshop-calculator",
+    "description": "A test with composer",
+    "authors": [
+        {
+            "name": "Javier Fortea",
+            "email": "javier.fortea@softonic.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+
+    },
+   "autoload": {
+	"psr-0":
+	{
+		"emmetog\\Calculator": "src/"
+	}
+   }
+}
